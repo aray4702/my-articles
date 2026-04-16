@@ -22,6 +22,12 @@ I am curious about many interesting topics on AI and beyond. To name a few:
 3. [Paper][Grokking: From Abstraction to Intelligence](https://arxiv.org/pdf/2603.29262)
 4. [融会贯通：从抽象到智能](https://www.alphaxiv.org/zh/overview/2603.29262v1)
 5. [Singular Learning Theory](https://sites.google.com/view/sumiowatanabe/home/singular-learning-theory)
+6. Learning algorithm -> Learn how to learn
+
+## Brain
+1. [Book][Randall's Computational Cognitive Neuroscience](https://compcogneuro.org/book)
+2. [Book][Piaget's The Psychology of the child](https://www.alohabdonline.com/wp-content/uploads/2020/05/The-Psychology-Of-The-Child.pdf)
+3. [People][Antonio Damasio's consciousness](https://routledgetextbooks.com/textbooks/9781138801318/people/antonio-damasio.php)
 
 ## Complex systems
 
@@ -30,3 +36,9 @@ I am curious about many interesting topics on AI and beyond. To name a few:
 
 ##  中观和唯识
 1. 明觉，意识，物质
+
+##  学习，健身，生活
+1. [Learn how to learn](https://barbaraoakley.com/books/learning-how-to-learn/)
+2. 逻辑原点
+3. 第一性原理
+4. 系统思维
